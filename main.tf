@@ -2,11 +2,11 @@
 terraform {
     backend "remote" {
         # The name of your Terraform Cloud organization.
-        organization = var.tfc_organization
+        organization = "org-f1FQL5sQiGbRX2RY" #"blessedbeyondfoundation"
 
         # The name of the Terraform Cloud workspace to store Terraform state files in.
         workspaces {
-            name = var.tfc_workspace
+            name = "aws-_smoketest" #"blessedbeyondfoundation"
         }
     }
 }
