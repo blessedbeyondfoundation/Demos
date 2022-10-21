@@ -38,7 +38,7 @@ BlessedBeyond-Demos az smoke-test
 
 ## Release Notes
 - 0.1 init
-
+- 0.2 added aws/_smoketest
 ## Copyright
 [Blessed Beyond Foundation](https://github.com/blessedbeyondfoundation), David Walker, [Radical Dave](https://github.com/Radical-Dave), [Sitecore Dave](https://github.com/sitecoredave)
 
